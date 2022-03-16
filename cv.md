@@ -1,4 +1,4 @@
-# Kirill TSurkan
+# Kirill Tsurkan
 ******************
 ## Junior Frontend Developer
 ******************************
