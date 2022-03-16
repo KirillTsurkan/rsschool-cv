@@ -1,5 +1,5 @@
 # Kirill TSurkan
-===
+******************
 ## Junior Frontend Developer
 
 ### Contact information:
